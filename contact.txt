@@ -1,0 +1,5 @@
+thoriq 5
+Hanif 29
+farhan 11
+najib 23
+t 78
